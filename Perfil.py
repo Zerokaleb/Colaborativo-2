@@ -1,3 +1,5 @@
 print("Mi perfil")
 a=input("Ingresa tu nombre: ")
 print("Bienvenido ",a)
+b=input("Ingresa tu edad: ")
+print("Tu edad es: ", b)
